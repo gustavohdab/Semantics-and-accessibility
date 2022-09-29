@@ -1,6 +1,7 @@
 Meu resultado; <br>
 site: https://casualmente.github.io/Semantics-and-accessibility/ <br>
-source page: view-source:https://casualmente.github.io/Semantics-and-accessibility/ <br>
+source page: <br> ![image](https://user-images.githubusercontent.com/112674398/193122859-a8d296b0-e878-40c0-90a1-6c633a931e8f.png)
+ <br>
 # 💻 Sobre o desafio
 
 Sabemos que a maior parte do conteúdo disponível na internet hoje pode se tornar acessível apenas com a utilização **correta** dos elementos do HTML.
