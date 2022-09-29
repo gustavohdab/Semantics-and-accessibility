@@ -1,3 +1,6 @@
+Meu resultado; 
+site: https://casualmente.github.io/Semantics-and-accessibility/
+source page: view-source:https://casualmente.github.io/Semantics-and-accessibility/
 # 💻 Sobre o desafio
 
 Sabemos que a maior parte do conteúdo disponível na internet hoje pode se tornar acessível apenas com a utilização **correta** dos elementos do HTML.
@@ -6,6 +9,10 @@ Você receberá um código com o projeto desenvolvido durante a Fase 02, mas, a
 Como você pode ver na imagem abaixo, a página ~~(exceto o botão)~~ continua funcionando normalmente mas, quando você abrir o código, vai se deparar com os elementos do HTML todos bagunçados... **👀**
 
 ![image](https://user-images.githubusercontent.com/112674398/193120782-5884243c-969f-4546-885c-3b8cd8851bcd.png)
+![image](https://user-images.githubusercontent.com/112674398/193121988-160fbbe7-19e2-4f2d-8ac3-3bdb5726b638.png)
+![image](https://user-images.githubusercontent.com/112674398/193122088-7f458635-78f5-459f-99a5-fb91e01f9ed9.png)
+
+
 
 Topa encarar esse desafio e deixar o site mais acessível? **💜**
 Vai ser muito importante para o seu aprendizado rever e aplicar esses novos conceitos. 
