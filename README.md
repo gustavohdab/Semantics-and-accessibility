@@ -1,6 +1,6 @@
-Meu resultado; 
-site: https://casualmente.github.io/Semantics-and-accessibility/
-source page: view-source:https://casualmente.github.io/Semantics-and-accessibility/
+Meu resultado; <br>
+site: https://casualmente.github.io/Semantics-and-accessibility/ <br>
+source page: view-source:https://casualmente.github.io/Semantics-and-accessibility/ <br>
 # 💻 Sobre o desafio
 
 Sabemos que a maior parte do conteúdo disponível na internet hoje pode se tornar acessível apenas com a utilização **correta** dos elementos do HTML.
